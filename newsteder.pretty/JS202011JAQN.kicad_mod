@@ -1,4 +1,4 @@
-(module JS202011JAQN (layer F.Cu) (tedit 5CA96533)
+(module JS202011JAQN (layer F.Cu) (tedit 5CF04C46)
   (fp_text reference REF** (at 0 -3) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -27,7 +27,7 @@
   (pad 2 smd rect (at 0 1.2) (size 1 1.6) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 2.5 1.2) (size 1 1.6) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -2.5 1.2) (size 1 1.6) (layers F.Cu F.Paste F.Mask))
-  (model ${KIPRJMOD}/../modules/Logicon.3dshapes/JS202011JAQN.wrl
+  (model ${KIPRJMOD}/../lib/news-kicad-lib/newsteder.3dshapes/JS202011JAQN.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -1,4 +1,4 @@
-(module PJ-002A (layer F.Cu) (tedit 5CA9653B)
+(module PJ-002A (layer F.Cu) (tedit 5CF04C54)
   (fp_text reference PJ-002A (at 1.85153 -6.77062) (layer F.Fab)
     (effects (font (size 1.00083 1.00083) (thickness 0.05)))
   )
@@ -17,7 +17,7 @@
   (pad 1 thru_hole oval (at 0 0 90) (size 5 2.5) (drill oval 3.5 1) (layers *.Cu *.Mask))
   (pad 2 thru_hole oval (at 6 0 90) (size 4.5 2.25) (drill oval 3 1) (layers *.Cu *.Mask))
   (pad 3 thru_hole oval (at 3 -4.7 180) (size 4.5 2.25) (drill oval 3 1) (layers *.Cu *.Mask))
-  (model ${KIPRJMOD}/../modules/Logicon.3dshapes/PJ-002A.wrl
+  (model ${KIPRJMOD}/../lib/news-kicad-lib/newsteder.3dshapes/PJ-002A.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

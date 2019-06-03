@@ -1,4 +1,4 @@
-(module ScrewTerminal_Pluggable_Header_3.5Pitch_12Position (layer F.Cu) (tedit 5C9FC9C9)
+(module ScrewTerminal_Pluggable_Header_3.5Pitch_12Position (layer F.Cu) (tedit 5CF04CAE)
   (fp_text reference REF** (at 0 0.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -21,7 +21,7 @@
   (pad 10 thru_hole circle (at -12.25 -8) (size 2.2 2.2) (drill 1.4) (layers *.Cu *.Mask))
   (pad 11 thru_hole circle (at -15.75 -8) (size 2.2 2.2) (drill 1.4) (layers *.Cu *.Mask))
   (pad 12 thru_hole circle (at -19.25 -8) (size 2.2 2.2) (drill 1.4) (layers *.Cu *.Mask))
-  (model ${KIPRJMOD}/../lib/Models/ScrewTerminal_Pluggable_Header_3.5Pitch_4Position.wrl
+  (model ${KIPRJMOD}/../lib/news-kicad-lib/newsteder.3dshapes/ScrewTerminal_Pluggable_Header_3.5Pitch_4Position.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

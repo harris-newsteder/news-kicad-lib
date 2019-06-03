@@ -1,4 +1,4 @@
-(module 220AMA16R (layer F.Cu) (tedit 5CAA1E95)
+(module 220AMA16R (layer F.Cu) (tedit 5CF04C29)
   (descr "4-bit rotary coded switch, gull wing, https://www.nidec-copal-electronics.com/e/catalog/switch/sh-7000.pdf")
   (tags "rotary switch bcd")
   (attr smd)
@@ -38,7 +38,7 @@
   (pad C smd rect (at 4 0) (size 3 1) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at -4 2.54) (size 3 1) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 4 2.54) (size 3 1) (layers F.Cu F.Paste F.Mask))
-  (model ${KIPRJMOD}/../modules/Logicon.3dshapes/220AMA16R.wrl
+  (model ${KIPRJMOD}/../lib/news-kicad-lib/newsteder.3dshapes/220AMA16R.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
